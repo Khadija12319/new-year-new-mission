@@ -437,5 +437,8 @@ hr{
     height: 1px;
     border-width: 0;
 }
+.icon-spacing{
+    padding-right: 10px;
+}
 /* Footer section End*/
 
